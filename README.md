@@ -1,2 +1,3 @@
 # Surgical-Robotic-Arm-Replica-Mar-2025
 About 2 years after finishing my project, I finally decided to upload it to GitHub.
+A group of 4 people, myself included, needed to create surgical robotic arm as a project out of scratch (only VEX devices, gears, and metal components). We had to use what we learned about mechanical advantage and how VEX devices function to create our robotic arm. The criteria was that we needed the arm to rotate in 3 different degrees. The 3 were rotation from the shoulder (left and right), rotation of the elbow (up and down), and the claw. Every function had to be coded in VEXcode manually.
